@@ -200,10 +200,10 @@ footer{
 .latest-news{
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     padding: 86px;
-    width: 100%;
+    width: 77%;
 }
 .latest-news-image img{
     width: 75%;
